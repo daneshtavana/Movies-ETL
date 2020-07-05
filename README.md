@@ -28,6 +28,6 @@ https://github.com/daneshtavana/Movies-ETL/blob/master/Wikipedia-ETL.ipynb
 #### "movies_metada.csv" https://www.kaggle.com/rounakbanik/the-movies-dataset/download
 
 
-### Use the same "def" function from "Wikipedia-ETL.ipyn" that performed all of the transformation steps, but removed any exploratory data analysis and redundant code.
+## Use the same "def" function from "Wikipedia-ETL.ipyn" that performed all of the transformation steps, but removed any exploratory data analysis and redundant code.
 ### URL Link: The Jupyter Notebook Python code for the challenge ETL process is located in
 https://github.com/daneshtavana/Movies-ETL/blob/master/challenge.ipynb
