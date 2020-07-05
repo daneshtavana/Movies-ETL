@@ -24,7 +24,7 @@ https://github.com/daneshtavana/Movies-ETL/blob/master/Wikipedia-ETL.ipynb
 
 ## Create a new automated ETL pipeline that operates on three data sources:
 #### "wikipedia.movies.json" https://courses.bootcampspot.com/courses/151/files/78740/download?wrap=1
-#### "MovieLensratings.csv" https://www.kaggle.com/rounakbanik/the-movies-dataset/download
+#### "ratings.csv" https://www.kaggle.com/rounakbanik/the-movies-dataset/download
 #### "movies_metada.csv" https://www.kaggle.com/rounakbanik/the-movies-dataset/download
 
 
